@@ -1,6 +1,6 @@
-# Pickup Line Generator with Emojis :heart_eyes:
+# Pickup Line Generator  :heart_eyes:
 
-This is a simple program that generates pickup lines to impress your crush using the OpenAI API and displays them using a tkinter GUI.
+This is a simple program that generates pickup lines using the OpenAI API and displays them using a tkinter GUI.
 
 ## Prerequisites :clipboard:
 
